@@ -1,2 +1,2 @@
 # Stepik
-Task of my courses on Stepik
+Tasks of my courses on Stepik
